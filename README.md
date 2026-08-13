@@ -10,7 +10,7 @@ Test:
 
 ```bash
 curl http://localhost:4000/health
-curl -H "x-api-key: API_KEY_LO" http://localhost:4000/api/departemen-it?page=1&limit=10
+curl -H "x-api-key: API_KEY" http://localhost:4000/api/departemen-it?page=1&limit=10
 ```
 
 ## Cara deploy Docker
